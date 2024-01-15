@@ -1,7 +1,6 @@
 local bv = {}
 
 bv.Inventory = {
-	money = 0,
 }
 
 bv.Stats = {
@@ -11,6 +10,7 @@ bv.Stats = {
 bv.Player = {
 	device_type = "None",
 	time_played = 0,
+	stage = 0,
 }
 
 bv.Settings = {

@@ -1,5 +1,5 @@
 {
-  "name": "rbxcat",
+  "name": "rbxcat-obby",
   "tree": {
     "$className": "DataModel",
 
@@ -29,30 +29,9 @@
     },
 
     "Workspace": {
+      "$path": "src/Workspace",
       "$properties": {
         "FilteringEnabled": true
-      },
-      "Baseplate": {
-        "$className": "Part",
-        "$properties": {
-          "Anchored": true,
-          "Color": [
-            0.38823,
-            0.37254,
-            0.38823
-          ],
-          "Locked": true,
-          "Position": [
-            0,
-            -10,
-            0
-          ],
-          "Size": [
-            512,
-            20,
-            512
-          ]
-        }
       }
     },
     "Lighting": {

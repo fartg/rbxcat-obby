@@ -1,0 +1,12 @@
+{
+    "ClassName": "SpawnLocation",
+    "properties": {
+        "Anchored": true,
+        "Color": [1, 0.8, 1],
+        "Locked": true,
+        "Material": "Marble",
+        "Position": [245, 0.5, -34],
+        "Orientation": [0, 90, 0],
+        "Size": [12, 1, 12]
+    }
+}
